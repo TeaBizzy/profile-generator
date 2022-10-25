@@ -41,7 +41,7 @@ rl.question('What\'s your name / nickname? ', (answer) => {
 
 const generateProfile = function() {
   console.log(`${responses.fullname} loves listening to ${responses.music} while ${responses.activity}, devouring ${responses.food} for ${responses.meal}, 
-  prefers ${responses.sport} over any other sport, and is amazing at ${responses.power}.`)
+  prefers ${responses.sport} over any other sport, and is amazing at ${responses.power}.`);
 };
 
 
